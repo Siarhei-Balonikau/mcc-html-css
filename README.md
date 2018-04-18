@@ -17,6 +17,7 @@
 - https://css-tricks.com/the-difference-between-responsive-and-adaptive-design/
 - https://getbootstrap.com/
 - https://medium.freecodecamp.org/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862
+- https://developer.mozilla.org/ru/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images
 
 ## SVG
 - https://svgontheweb.com/
@@ -28,6 +29,7 @@
 - https://tympanus.net/Development/CreativeButtons/
 - https://medium.com/@aniboaz/animate-svg-4fa7dd00e860
 - http://css-live.ru/articles/rukovodstvo-po-svg-animaciyam-smil.html
+- https://www.smashingmagazine.com/2016/12/gpu-animation-doing-it-right/
 
 ## Naming conventions
 - https://ru.bem.info/methodology/
@@ -43,6 +45,7 @@
 - https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/
 - https://www.youtube.com/watch?v=wexOXAflVX0&list=PLK0ZcucztUiUMlKdEyaHkAurtmXZp36S5&index=8&t=0s
 - https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization?hl=ru
+- https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video/
 
 ## Canvas
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
