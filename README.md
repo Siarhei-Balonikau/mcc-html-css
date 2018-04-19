@@ -58,3 +58,4 @@
 - https://css-tricks.com/places-its-tempting-to-use-display-none-but-dont/
 - https://css-tricks.com/gulp-for-beginners/
 - https://www.sitepoint.com/beginners-guide-to-webpack-2-and-module-bundling/
+- https://blog.logrocket.com/how-css-works-parsing-painting-css-in-the-critical-rendering-path-b3ee290762d3
