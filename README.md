@@ -59,3 +59,4 @@
 - https://css-tricks.com/gulp-for-beginners/
 - https://www.sitepoint.com/beginners-guide-to-webpack-2-and-module-bundling/
 - https://blog.logrocket.com/how-css-works-parsing-painting-css-in-the-critical-rendering-path-b3ee290762d3
+- https://google-webfonts-helper.herokuapp.com/fonts
