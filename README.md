@@ -46,6 +46,7 @@
 - https://www.youtube.com/watch?v=wexOXAflVX0&list=PLK0ZcucztUiUMlKdEyaHkAurtmXZp36S5&index=8&t=0s
 - https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization?hl=ru
 - https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video/
+- https://tinypng.com/
 
 ## Canvas
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
