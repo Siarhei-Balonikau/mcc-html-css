@@ -47,6 +47,7 @@
 - https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization?hl=ru
 - https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video/
 - https://tinypng.com/
+- https://developers.google.com/web/tools/lighthouse/
 
 ## Canvas
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
